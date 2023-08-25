@@ -1,0 +1,15 @@
+C:\Users\Wylk 2023\plantao_uc_code_back\bin\Debug\net6.0\plantao_uc_code_back.exe
+C:\Users\Wylk 2023\plantao_uc_code_back\bin\Debug\net6.0\plantao_uc_code_back.deps.json
+C:\Users\Wylk 2023\plantao_uc_code_back\bin\Debug\net6.0\plantao_uc_code_back.runtimeconfig.json
+C:\Users\Wylk 2023\plantao_uc_code_back\bin\Debug\net6.0\plantao_uc_code_back.dll
+C:\Users\Wylk 2023\plantao_uc_code_back\bin\Debug\net6.0\plantao_uc_code_back.pdb
+C:\Users\Wylk 2023\plantao_uc_code_back\obj\Debug\net6.0\plantao_uc_code_back.csproj.AssemblyReference.cache
+C:\Users\Wylk 2023\plantao_uc_code_back\obj\Debug\net6.0\plantao_uc_code_back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wylk 2023\plantao_uc_code_back\obj\Debug\net6.0\plantao_uc_code_back.AssemblyInfoInputs.cache
+C:\Users\Wylk 2023\plantao_uc_code_back\obj\Debug\net6.0\plantao_uc_code_back.AssemblyInfo.cs
+C:\Users\Wylk 2023\plantao_uc_code_back\obj\Debug\net6.0\plantao_uc_code_back.csproj.CoreCompileInputs.cache
+C:\Users\Wylk 2023\plantao_uc_code_back\obj\Debug\net6.0\plantao_uc_code_back.dll
+C:\Users\Wylk 2023\plantao_uc_code_back\obj\Debug\net6.0\refint\plantao_uc_code_back.dll
+C:\Users\Wylk 2023\plantao_uc_code_back\obj\Debug\net6.0\plantao_uc_code_back.pdb
+C:\Users\Wylk 2023\plantao_uc_code_back\obj\Debug\net6.0\plantao_uc_code_back.genruntimeconfig.cache
+C:\Users\Wylk 2023\plantao_uc_code_back\obj\Debug\net6.0\ref\plantao_uc_code_back.dll
